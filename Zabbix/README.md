@@ -1,5 +1,15 @@
 ### 目录
 
+<!-- MarkdownTOC -->
+
+- [初始化操作](#%E5%88%9D%E5%A7%8B%E5%8C%96%E6%93%8D%E4%BD%9C)
+    - [环境](#%E7%8E%AF%E5%A2%83)
+    - [安装Docker](#%E5%AE%89%E8%A3%85docker)
+- [部署服务](#%E9%83%A8%E7%BD%B2%E6%9C%8D%E5%8A%A1)
+    - [启动 Zabbix](#%E5%90%AF%E5%8A%A8-zabbix)
+    - [访问 Zabbix](#%E8%AE%BF%E9%97%AE-zabbix)
+
+<!-- /MarkdownTOC -->
 
 
 
@@ -52,12 +62,11 @@ http://$LOCALHOST/zabbix  即可访问 zabbix 的 web 页面
 USER: Admin
 PASS: zabbix
 ```
-
 至此Zabbix Server安装完成!!
-----
 
 <H2><Center>打赏作者喝杯咖啡</Center></H2>
-<H3><center>如果觉得我的文章对您有用,请随意打赏.您的支持将鼓励我继续创作！</center></H3>
+<H3><center>如果觉得我的文章对您有用,请随意打赏.您的支持将鼓励我继续创作！(PS:拒绝白嫖)</center></H3>
+
 - [x]微信还是支付宝？
 
 <img src="https://gitee.com/cherishssh/images/raw/master/Image/Wechat.jpeg" height="340" width="235"> <img src="https://gitee.com/cherishssh/images/raw/master/Image/WechatAL.jpeg" height="340" width="235">
